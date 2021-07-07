@@ -1,7 +1,11 @@
 # BlogApp
 
 git clone https://github.com/r-narula/BlogApp.git
- 
+
+```
+cd BlogApp
+```
+
 just Make a python virtual env (https://docs.python.org/3/library/venv.html)
 
 ```
